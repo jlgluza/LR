@@ -4,10 +4,6 @@ by J.Chakrabortty, J.Gluza, T.Jelinski, T.Srivastava
 
 Content:
 
-./Couplings: 
-HHHH_Quartic_Couplings.pdf
+./Couplings: HHHH_Quartic_Couplings.pdf
 
-./RGEs:
-LR.model
-LR-RGEs-1-loop.m
-RunPyRate_RGEs.m
+./RGEs: LR.model, LR-RGEs-1-loop.m, RunPyRate_RGEs.m
